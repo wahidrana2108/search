@@ -18,7 +18,7 @@
             }
         }
         else{
-            echo "No customer information found";
+            echo "No customer information found!";
         }
     }
 ?>
